@@ -1,0 +1,68 @@
+html, body {
+    width: 50%;
+    background-color:rgb(99, 95, 65);
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 400px;
+
+}
+
+#load {
+    width: 300px;
+    height: 35px;
+    background-color: rgba(179, 209, 142, 0.717);
+    border-width: 0;
+    border: 2.5px solid rgb(15, 17, 11);
+    outline: none;
+    font-size: 20px;
+    vertical-align: middle;
+    text-transform:uppercase;
+    border-radius: 10rem;
+    color:rgb(6, 6, 13);
+    position: relative;
+    right:3rem;
+}
+
+#adduptask {
+    position:fixed;
+    left:750px;
+    height: 40px;
+    width: 95px;
+    color:rgba(215, 25, 15, 0.566);
+    background-color: rgb(144, 157, 233);
+    border: 2.5px solid rgb(0, 0, 1);
+    vertical-align: middle;
+    font-size: 25px;
+    top: 110px;
+    border-radius: 10rem;
+}
+
+.task{
+    margin: 0;
+    cursor: pointer;
+    font-size: 30px; 
+
+}
+.box{
+    margin-top: 50px;
+    cursor: pointer;
+    font-size: 30px;
+}
+h2{
+    position: absolute;
+    left:475px;
+    top: 140px;
+    color: rgba(234, 232, 237, 0.726);
+    
+    
+
+}
+h1
+{
+    color: rgba(234, 232, 237, 0.726);
+}
+
+
